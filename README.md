@@ -1,0 +1,1 @@
+Praca na strukturach danych, wcześniej znałem już większe struktury jednak robiłem je w C gdzie nie ma bibilioteki STL i tworzyłem struktury jak i funkcje samemu. Tutaj próbuje poznać zawortowość wspomnianej bibioteki i bogactwo C++
